@@ -50,8 +50,8 @@ pip install -r requirements.txt
 ```
 
 The requirements file was generated using:
-```pip freeze > requirements.txt
-```
+pip freeze > requirements.txt
+
 ### 2) Run the notebook
 
 * Clone or download this repository
